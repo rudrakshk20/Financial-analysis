@@ -2,7 +2,7 @@
 Projects related to financial analysis using data science
 
 ### **Modern Portfolio Thoery**
-___________________________________________________________________________________________________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://github.com/rudrakshk20/Financial-analysis/blob/main/Modern%20Portfolio%20Theory.ipynb
 
 ##### 1) Created a portfolio of top 10 stocks in NIFTY50 onm the basis of Sharpe ratio
